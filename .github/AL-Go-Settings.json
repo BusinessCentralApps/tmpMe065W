@@ -1,5 +1,6 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@v5.1",
-  "MicrosoftTelemetryConnectionString": ""
+  "templateUrl": "https://github.com/businesscentralapps/tmpn5coPv-PTE@main",
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "990e0ebb40905ef329af24e308c06ead6c4e0f2b"
 }
